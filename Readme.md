@@ -16,4 +16,4 @@ O To Do foi criado com **HTML/SCSS/JS**, onde foi usado às principais seguintes
     - `npm run dev` OR `yarn dev`
 4. visitar a página http://localhost:8080/ no seu browse.
 
-![Application](https://github.com/paulinho68/ignite-reactjs-conceitos-react/tree/main/prints/print.png)
+![Application](https://github.com/paulinho68/ignite-reactjs-conceitos-react/blob/main/prints/print.png?raw=true)
