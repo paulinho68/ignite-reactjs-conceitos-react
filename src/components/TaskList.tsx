@@ -50,11 +50,8 @@ export function TaskList() {
 
   function handleRemoveTask(id: number) {
     // Remova uma task da listagem pelo ID
-    const bool = confirm('Deseja Realmente excluir esta task?');
-    if (bool) {
-      const newTasks = tasks.filter(task => task.id != id);
-      setTasks(newTasks);
-    }
+    const newTasks = tasks.filter(task => task.id != id);
+    setTasks(newTasks);
   }
 
   return (
